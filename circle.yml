@@ -15,7 +15,7 @@ dependencies:
     - gem install bundler -v 1.11
 
   override:
-    - bundle install
+    - gem install pkg/errand-boy-0.1.0.gem
 
 test:
   override:

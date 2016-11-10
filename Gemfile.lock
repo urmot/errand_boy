@@ -2,7 +2,7 @@ GEM
   remote: http://rubygems.org/
   specs:
     citrus (3.0.2)
-    errand-boy (0.1.2)
+    errand-boy (0.1.0)
       faraday
       git
       toml-rb
@@ -17,7 +17,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  errand-boy
+  errand-boy (= 0.1.0)
 
 BUNDLED WITH
-   1.12.5
+   1.13.2

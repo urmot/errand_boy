@@ -16,6 +16,7 @@ dependencies:
 
   override:
     - gem install pkg/errand-boy-0.1.0.gem
+    - bundle install
 
 test:
   override:

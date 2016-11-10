@@ -1,0 +1,4 @@
+provider = 'slack'
+action = 'invite'
+register = { name = 'aaa', email = 'uramototo@gmail.com' }
+destination = { team = 'example' }

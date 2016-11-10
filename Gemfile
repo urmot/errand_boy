@@ -1,3 +1,3 @@
 source 'http://rubygems.org'
 
-gem 'errand-boy', path: ./pkg
+gem 'errand-boy', '0.1.0'

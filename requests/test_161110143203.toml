@@ -1,5 +1,0 @@
-provider = 'slack'
-action = 'invite'
-sender = { name = 'aaa', email = 'bbb' }
-register = { name = 'bbb', 'email' = 'uramototo@gmail.com' }
-destination = { team = 'example' }

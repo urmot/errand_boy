@@ -1,0 +1,9 @@
+provider = ''
+action = ''
+[sender]
+name = 'yuta'
+email = 'yuta@example.com'
+[register]
+name = 'hanako'
+email = 'hanako@example.com'
+[destination]

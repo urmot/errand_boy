@@ -1,0 +1,9 @@
+provider = 'slack'
+action = 'invite'
+[sender]
+name = 'yukiho'
+email = 'yukiho@example.com'
+[register]
+name = 'yuta'
+email = 'yuta@example.com'
+[destination]

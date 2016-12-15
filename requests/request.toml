@@ -1,0 +1,9 @@
+provider = 'slack'
+action = 'invite'
+[sender]
+name = 'fasj'
+email = 'yes'
+[register]
+name = 'y'
+email = 'y'
+[destination]
